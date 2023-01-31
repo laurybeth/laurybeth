@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola 👋
+#### I am a computer engineer and front end web developer. Quality and avant-garde are my principles. I am a person with the ability to listen and a vocation for service who recognizes the value of diversity. Which, together with my technical skills, allows me to deliver user-focused solutions.
 
 <!--
 **laurybeth/laurybeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
