@@ -1,9 +1,10 @@
-# Hola 👋 I'm Laurybeth, welcome to my Github!
-### I'm a Computer Engineer and Front-End Web Developer in Trujillo, Perú. 
+<h1 align='center'> Hola 👋 Welcome to my Github!</h1>
+<br>
+<h3> I'm a Computer Engineer and Front-End Web Developer in Trujillo, Perú. </h3>
 Quality and avant-garde are my principles. I am a person with the ability to listen and a vocation for service who recognizes the value of diversity. Which, together with my technical skills, allows me to deliver user-focused solutions.
 <br>
 <br>
-## 🛠 &nbsp;Tech Stack
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -17,12 +18,12 @@ Quality and avant-garde are my principles. I am a person with the ability to lis
  <br> 
  <br>
   
-## My GitHub Stats
+<h2> My GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=laurybeth&&show_icons=true&theme=radical&line_height=27&v=5" alt="Laurybeth's GitHub Stats" />
 
 <br>
 
----
+#
 ### Connect with me:   &nbsp;<a href="https://www.linkedin.com/in/laurybeth/"><img alt="Piyush Pravin | Linkedin" width="25px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a>&nbsp;&nbsp;<a href="https://twitter.com/LaurybethCueva"><img alt="Piyush Pravin | Twitter" width="25px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" /></a>
 
   
