@@ -23,11 +23,11 @@ Quality and avant-garde are my principles. I am a person with the ability to lis
 <br>
 
 
-### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px">
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/laurybeth/"><img alt="Piyush Pravin | Linkedin" width="32px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/LaurybethCueva"><img alt="Piyush Pravin | Twitter" width="32px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" /></a>
+  <a href="https://www.linkedin.com/in/laurybeth/"><img alt="Piyush Pravin | Linkedin" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/LaurybethCueva"><img alt="Piyush Pravin | Twitter" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" /></a>
 </p>
   
 <br>
