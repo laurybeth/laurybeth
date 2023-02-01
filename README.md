@@ -22,7 +22,7 @@ Quality and avant-garde are my principles. I am a person with the ability to lis
 
 <br>
 
-
+---
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px">
 <p align="left">
 
