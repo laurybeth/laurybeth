@@ -1,7 +1,7 @@
 # Hola 👋 I'm Laurybeth, welcome to my Github!
 ### I'm a Computer Engineer and Front-End Web Developer in Trujillo, Perú. 
 Quality and avant-garde are my principles. I am a person with the ability to listen and a vocation for service who recognizes the value of diversity. Which, together with my technical skills, allows me to deliver user-focused solutions.
-
+<br>
 ## 🛠 &nbsp;Tech Stack
 
 
@@ -13,12 +13,12 @@ Quality and avant-garde are my principles. I am a person with the ability to lis
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
+ <br> 
   
 ## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=laurybeth&&show_icons=true&theme=radical&line_height=27&v=5" alt="Laurybeth's GitHub Stats" />
 
-
+<br>
 
 
 ## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
