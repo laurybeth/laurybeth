@@ -21,7 +21,7 @@ Quality and avant-garde are my principles. I am a person with the ability to lis
 
 
 
-### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
 
   <a href="https://www.linkedin.com/in/laurybeth/"><img alt="Piyush Pravin | Linkedin" width="32px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a>&nbsp;&nbsp;
@@ -31,7 +31,9 @@ Quality and avant-garde are my principles. I am a person with the ability to lis
 <br>
 <br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=laurybeth)
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=laurybeth)
+
 
 <!--
 **laurybeth/laurybeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
