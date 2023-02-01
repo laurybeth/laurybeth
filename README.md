@@ -2,7 +2,7 @@
 ### I'm a Computer Engineer and Front-End Web Developer in Trujillo, Perú. 
 Quality and avant-garde are my principles. I am a person with the ability to listen and a vocation for service who recognizes the value of diversity. Which, together with my technical skills, allows me to deliver user-focused solutions.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠 &nbsp;Tech Stack
 
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -14,26 +14,24 @@ Quality and avant-garde are my principles. I am a person with the ability to lis
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  <br/>
+  
+## My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=laurybeth&&show_icons=true&theme=radical&line_height=27&v=5" alt="Laurybeth's GitHub Stats" />
 
-<a href="https://github.com/laurybeth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurybeth&theme=buefy&show_icons=true" />
-</a>
 
-<br/>
-<br/>
 
-<p align="center">
-  <i>Let's connect!</i>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/laurybeth/"><img alt="Piyush Pravin | Linkedin" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a>
-  <a href="https://twitter.com/LaurybethCueva"><img alt="Piyush Pravin | Twitter" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
-  </p>
+
+### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/laurybeth/"><img alt="Piyush Pravin | Linkedin" width="32px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/LaurybethCueva"><img alt="Piyush Pravin | Twitter" width="32px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" /></a>
+</p>
   
 <br>
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=laurybeth)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=laurybeth)
 
 <!--
 **laurybeth/laurybeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
