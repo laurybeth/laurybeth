@@ -1,6 +1,6 @@
 <h1 align='center'> Hola 👋 Welcome to my Github!</h1>
 <br>
-<h3> I'm a Computer Engineer and Full - Stack Web Developer in Trujillo, Perú. </h3>
+<h3> I'm a Computer Engineer and Full - Stack Developer in Trujillo, Perú. </h3>
 Quality and avant-garde are my principles. I am a person with the ability to listen and a vocation for service who recognizes the value of diversity. Which, together with my technical skills, allows me to deliver user-focused solutions.
 <br>
 <br>
